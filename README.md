@@ -1,20 +1,20 @@
-1. Project Title
+**1. Project Title**
 
 Employee Attrition Risk Analytics
 
-2. Project Overview
+**2. Project Overview**
 
 This project develops a predictive analytics system to identify employees at high risk of resignation and understand the key factors driving employee attrition.
 
 The project integrates Oracle SQL, Python machine learning, and Power BI dashboards to deliver actionable workforce insights.
 
-3. Problem Statement
+**3. Problem Statement**
 
 Organizations often struggle to identify employees who are likely to resign. Traditional HR reporting focuses only on historical attrition.
 
 This project builds a predictive attrition risk model that enables proactive employee retention strategies.
 
-4. Tools & Technologies
+**4. Tools & Technologies**
 
 a) Oracle SQL : Data extraction and feature engineering
 
@@ -26,7 +26,7 @@ d) Pandas / NumPy : Data manipulation
 
 e) Power BI : Visualization and dashboard
 
-5. Data Description
+**5. Data Description**
 
 The dataset used in this project includes employee-level HR information such as:
 
@@ -48,7 +48,7 @@ h) Job Rotation data: PROJECT_POSITION_MASTER
 
 Note: Due to confidentiality restrictions, the original dataset is not included in this repository.
 
-6. Feature Engineering
+**6. Feature Engineering**
 
 Several predictive features were created to capture behavioral and compensation patterns.
 
@@ -102,7 +102,7 @@ w) Resig_flag : Y if Resigned in coming 6 months
 
 x) resig_same_unit_grade : Resigned same unit/grade in past 12 months
 
-7. Machine Learning Model
+**7. Machine Learning Model**
 
 The attrition prediction model uses Logistic Regression.
 
@@ -112,7 +112,7 @@ b) Model Output : Probability of employee resignation
 
 c) Model performance metric : ROC AUC Score
 
-8. Dashboard
+**8. Dashboard**
 
 The Power BI dashboard provides several analytical views:
 
@@ -126,7 +126,7 @@ d) Employee Risk Register : Detailed list of employees with high resignation pro
 
 e) Attrition Driver Diagnostics : Analysis of factors influencing attrition risk.
 
-9. Key Insights
+**9. Key Insights**
 
 a) Employees with high Incentive Volatility are at higher risk of resigning.
 
@@ -138,7 +138,7 @@ d) Employees with higher Salary growth have lower risk of Resignation.
 
 e) Resignation risk declines with increase in Compa Ratio.
 
-10. Project Architecture
+**10. Project Architecture**
 
 Oracle Database
 
@@ -158,7 +158,7 @@ Machine Learning Model
 
 Power BI Dashboard
 
-11. Repository Structure
+**11. Repository Structure**
 
 employee-attrition-risk-analysis
 
@@ -192,7 +192,7 @@ employee-attrition-risk-analysis
 
 └── readme.md
 
-12. Disclaimer
+**12. Disclaimer**
 
 This project was developed using internal organizational HR data.
 
