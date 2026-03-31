@@ -380,15 +380,13 @@ The Power BI dashboard provides several analytical views:
 
 *  Executive Overview :
     * Filters : Date/ Unit/ Location/ Cadre/ Grade/ Gender/ Function
-    * KPIs :
-    * Visuals :
-    * Observations :  
+    * KPIs : Headcount (As on Date)/ Attrition % (Last 10 Years) / Resignations (Last 10 Years)/ Predicted High Risk Employee %/ Predicted High Risk Employee Count
+    * Visuals : Historical Attrition Trend (Last 10 years)/ Historical Attrition % by Function/ Attrition Risk Heatmap / Attrition Risk Distribution/ Top 10 Units at Risk/ Top                 50 Employees at Risk  
 
 *  Attrition History :
     * Filters : Date/ Unit/ Location/ Cadre/ Grade/ Gender/ Function
-    * KPIs :
-    * Visuals :
-    * Observations :
+    * KPIs : Resignations (Last 10 Years)/ Attrition % (Last 10 Years)/ Average Tenure at Resignation/ Average age at Resignation
+    * Visuals : Historical Attrition Trend (Last 10 years)/ Historical Attrition Heatmap/ Historical Attrition % by Unit-Function/ Historical Attrition % by Cadre-Grade/                       Historical Attrition % by Tenure Band/ Historical Attrition % by Age Band/ Employee wise Historical Attrition Details
 
 *  Attrition Risk Prediction :
     * Filters : Date/ Unit/ Location/ Cadre/ Grade/ Gender/ Function
