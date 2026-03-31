@@ -35,14 +35,19 @@ The project integrates Oracle SQL, Python machine learning, and Power BI dashboa
 ## **Project Architecture**
 
 Oracle Database (Master Data Tables)
+
                 ↓
 Feature Engineering (SQL Views)
+
                 ↓
 Python Data Processing (Data Cleaning & Transformation)
+
                 ↓
 Scikit Learn Machine Learning Model (Logistic Regression Model)
+
                 ↓
 Oracle Database (Attrition Probability & Model Coefficients)
+
                 ↓
 Power BI Dashboard (Data Visualisation, Reporting & Analysis)
 
