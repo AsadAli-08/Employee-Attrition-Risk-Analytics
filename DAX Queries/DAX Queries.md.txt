@@ -1,0 +1,14 @@
+# **DAX Queries**
+
+##	**Historical Attrition Trend**
+
+
+##	**Attrition Risk Predictive Analysis**
+
+
+
+##	**Attrition Risk Register**
+
+
+
+##	**Attrition Diagnostic Analysis**
