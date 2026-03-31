@@ -32,6 +32,30 @@ The project integrates Oracle SQL, Python machine learning, and Power BI dashboa
 
 *  Power BI : Data Visualization and Dashboard
 
+## **Project Architecture**
+
+Oracle Database (Master Data Tables)
+
+↓
+
+Feature Engineering (SQL Views)
+
+↓
+
+Python Data Processing (Data Cleaning & Transformation)
+
+↓
+
+Scikit Learn Machine Learning Model (Logistic Regression Model)
+
+↓
+
+Oracle Database (Attrition Probability & Model Coefficients)
+
+↓
+
+Power BI Dashboard (Data Visualisation, Reporting & Analysis)
+
 ## **Data Model**
 
 ### *Master Data Tables (ORACLE DB)*
@@ -375,26 +399,6 @@ Analysis of employee attrition drivers indicates that resignation risk is primar
 *  Early Career Employees (Age / Tenure) – Younger employees and those with shorter tenure exhibit elevated attrition risk.
 
 These findings suggest that performance engagement, incentive stability, and early career retention initiatives should be prioritized to reduce attrition risk.
-
-## **Project Architecture**
-
-Oracle Database
-
-↓
-
-Feature Engineering (SQL Views)
-
-↓
-
-Python Data Processing
-
-↓
-
-Machine Learning Model
-
-↓
-
-Power BI Dashboard
 
 
 ## **Disclaimer**
