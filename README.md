@@ -395,15 +395,11 @@ The Power BI dashboard provides several analytical views:
 
 *  Employee Risk Register :
     * Filters : Date/ Unit/ Location/ Cadre/ Grade/ Gender/ Function
-    * KPIs :
-    * Visuals :
-    * Observations :
+    * KPIs :  Headcount (As on Date)/ High Risk Employee Count/ Medium Risk Employee Count/ Predicted High Risk Employee %/ Average Attrition Probability
+    * Visuals : Employee wise Attrition Risk Probability & Feature Values
 
 *  Attrition Driver Diagnostics :
-    * Filters : Date/ Unit/ Location/ Cadre/ Grade/ Gender/ Function
-    * KPIs :
-    * Visuals :
-    * Observations :
+    * Visuals : Top Factors impacting Attrition Risk / Factor wise Impact Score
 
 ## **Key Insights**
 
