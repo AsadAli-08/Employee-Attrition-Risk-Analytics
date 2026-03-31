@@ -57,8 +57,8 @@ The project integrates Oracle SQL, Python machine learning, and Power BI dashboa
 ### *Dimension Data Tables*
 
 *  DIM_Cadre_Master
-  *  Cadre Code
-  *  Cadre Name
+    *  Cadre Code
+    *  Cadre Name
 
 *  DIM_Grade_Master
 
