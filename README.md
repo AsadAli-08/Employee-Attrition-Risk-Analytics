@@ -1,8 +1,6 @@
-**1. Project Title**
+## Employee Attrition Risk Analysis
 
-Employee Attrition Risk Analytics
-
-**2. Project Overview**
+# **Project Overview**
 
 This project develops a predictive analytics system to identify employees at high risk of resignation and understand the key factors driving employee attrition.
 
