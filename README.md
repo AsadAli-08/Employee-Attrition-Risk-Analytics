@@ -54,6 +54,60 @@ The project integrates Oracle SQL, Python machine learning, and Power BI dashboa
 
 ### *Fact Data Tables*
 
+*  FACT_Employee_Master
+    *  EMP_ID
+    *  Name
+    *  Gender
+    *  DOB
+    *  DOJ
+    *  Unit Code
+    *  Location Code
+    *  Function Code
+    *  Grade Code
+    *  DOR
+    *  Cadre Code
+  
+*  FACT_Resignation_probab
+    *  EMP_ID
+    *  Attrition Probability%
+    *  Risk Band (Low/ Medium/ High)
+    *  Snapshot Mmonth
+    *  Age
+    *  Location Code
+    *  Tenure (MM)
+    *  Training Days (Last 36 Months)
+    *  Job Rotations
+    *  Perf Slope
+    *  Curr Perf Score
+    *  Perf Delta
+    *  MOnths since Promotion
+    *  Stagflation Flag
+    *  Incentive Volatility
+    *  Incentive (Last 36 Months)
+    *  Resig in Same Unit & Grade
+    *  Absence Days (6 Months)
+    *  Absence Spike
+    *  Salary Growth
+    *  Compensation Below peer flag
+    *  DOR
+    *  DOB
+    *  DOJ
+    *  Resignation Flag (Next 6 Months)
+
+*  FACT_Attrition_Drivers
+    *  Attrition Driver
+    *  Average Value for High Risk Employees
+    *  Average Value for Low Risk Employees
+    *  Risk Gap
+    *  Manpower Impacted
+    *  Impact Score
+
+*  FACT_Attrition_Drivers_Coeff
+    *  Attrition Driver
+    *  Logistic Regression Model Coefficient
+    *  Absolute Value of Coefficient
+    *  Impact (Positive/ Negative)
+
 ### *Dimension Data Tables*
 
 *  DIM_Cadre_Master
