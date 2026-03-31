@@ -9,10 +9,15 @@ The project integrates Oracle SQL, Python machine learning, and Power BI dashboa
 ## **Problem Objectives**
 
 *  Build a model to forecast workforce size over the next 6 months
+  
 *  Estimate expected employee exits using attrition predictions
+  
 *  Understand future hiring needs based on projected workforce changes
+  
 *  Identify workforce gaps (shortage or surplus) across roles and locations
+  
 *  Present insights through an interactive Power BI dashboard
+  
 *  Support HR teams in making informed workforce and hiring decisions
 
 ## **Tools & Technologies**
