@@ -1,4 +1,4 @@
-# **DAX Queries**
+# **DAX Queries **
 
 ##	**Historical Attrition Trend**
 
