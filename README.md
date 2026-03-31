@@ -399,23 +399,6 @@ The attrition prediction model uses Logistic Regression.
 *  Attrition Driver Diagnostics :
     * Visuals : Top Factors impacting Attrition Risk / Factor wise Impact Score
  
-## **Key Metrics (Power BI)**
-
-*  Executive Overview :
-    * 
-
-*  Attrition History :
-    *
-
-*  Attrition Risk Prediction :
-    * 
-
-*  Employee Risk Register :
-    * 
-
-*  Attrition Driver Diagnostics :
-    * 
-
 ## **Key Insights**
 
 Analysis of employee attrition drivers indicates that resignation risk is primarily influenced by three factors:
