@@ -2,7 +2,7 @@
 
 ##	**Historical Attrition Trend**
 
-            *  Resignations Till Date =
+###           Resignations Till Date =
                         CALCULATE (
                             DISTINCTCOUNT ( FACT_Employee_Master[Emp ID] ),
                             FILTER (
@@ -13,7 +13,7 @@
                             )
                         )
             
-            *  Avg_HeadCount =
+###           Avg_HeadCount =
                       VAR max_date =
                           LASTDATE ( DIM_Date_Table[Date] )
                       VAR min_date =
