@@ -6,13 +6,13 @@ This project develops a predictive analytics system to identify employees at hig
 
 The project integrates Oracle SQL, Python machine learning, and Power BI dashboards to deliver actionable workforce insights.
 
-**3. Problem Statement**
+## **Problem Statement**
 
 Organizations often struggle to identify employees who are likely to resign. Traditional HR reporting focuses only on historical attrition.
 
 This project builds a predictive attrition risk model that enables proactive employee retention strategies.
 
-**4. Tools & Technologies**
+## **Tools & Technologies**
 
 a) Oracle SQL : Data extraction and feature engineering
 
@@ -24,7 +24,7 @@ d) Pandas / NumPy : Data manipulation
 
 e) Power BI : Visualization and dashboard
 
-**5. Data Description**
+## **Data Description**
 
 The dataset used in this project includes employee-level HR information such as:
 
@@ -46,7 +46,7 @@ h) Job Rotation data: PROJECT_POSITION_MASTER
 
 Note: Due to confidentiality restrictions, the original dataset is not included in this repository.
 
-**6. Feature Engineering**
+## **Feature Engineering**
 
 Several predictive features were created to capture behavioral and compensation patterns.
 
@@ -100,7 +100,7 @@ w) Resig_flag : Y if Resigned in coming 6 months
 
 x) resig_same_unit_grade : Resigned same unit/grade in past 12 months
 
-**7. Machine Learning Model**
+## **Machine Learning Model**
 
 The attrition prediction model uses Logistic Regression.
 
@@ -110,7 +110,7 @@ b) Model Output : Probability of employee resignation
 
 c) Model performance metric : ROC AUC Score
 
-**8. Dashboard**
+## **Power BI Dashboard**
 
 The Power BI dashboard provides several analytical views:
 
@@ -124,7 +124,7 @@ d) Employee Risk Register : Detailed list of employees with high resignation pro
 
 e) Attrition Driver Diagnostics : Analysis of factors influencing attrition risk.
 
-**9. Key Insights**
+## **Key Insights**
 
 Analysis of employee attrition drivers indicates that resignation risk is primarily influenced by three factors:
 
@@ -136,7 +136,7 @@ c) Early Career Employees (Age / Tenure) – Younger employees and those with sh
 
 These findings suggest that performance engagement, incentive stability, and early career retention initiatives should be prioritized to reduce attrition risk.
 
-**10. Project Architecture**
+## **Project Architecture**
 
 Oracle Database
 
@@ -156,9 +156,9 @@ Machine Learning Model
 
 Power BI Dashboard
 
-**11. Repository Structure**
+## **GitHub Repository Structure**
 
-employee-attrition-risk-analysis
+Employee-attrition-risk-analysis
 
 ├── sql
 
@@ -192,10 +192,14 @@ employee-attrition-risk-analysis
 
 └── readme.md
 
-**12. Disclaimer**
+## **Disclaimer**
 
 This project was developed using internal organizational HR data.
 
 Due to confidentiality restrictions, the original dataset and Power BI file containing real employee data are not included.
 
 Sample structures and screenshots are provided for demonstration purposes.
+
+## Author
+
+Asad Ali
