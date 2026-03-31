@@ -36,7 +36,7 @@ The project integrates Oracle SQL, Python machine learning, and Power BI dashboa
 
 Oracle Database (Master Data Tables)
 
-               *↓*
+              **↓**
 
 Feature Engineering (SQL Views)
 
