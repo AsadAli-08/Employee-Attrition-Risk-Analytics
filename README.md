@@ -37,12 +37,34 @@ The project integrates Oracle SQL, Python machine learning, and Power BI dashboa
 ### *Master Data Tables*
 
 *  Employee master data : PROJECT_EMP_MASTER
+    *  EMP_ID
+    *  Name
+    *  Gender
+    *  DOB
+    *  DOJ
+    *  Unit Code
+    *  Location Code
+    *  Function Code
+    *  Grade Code
+    *  DOR
+    *  Cadre Code
 
 *  Career progression : PROJECT_PROMOTION_MASTER
+    * EMP_ID
+    * Promotion Date
 
 *  Training records : PROJECT_TRAINING_MASTER
+    * EMP_ID
+    * From Date
+    * To Date
+    * Training Type
+    * Training Name
 
 *  Performance ratings : PROJECT_PERF_MASTER
+    * EMP_ID
+    * From Date
+    * End Date
+    * Performance Score
 
 *  Absence history : PROJECT_ABSENCE_MASTER
 
