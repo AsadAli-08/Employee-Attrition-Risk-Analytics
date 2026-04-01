@@ -423,16 +423,16 @@ The attrition prediction model uses Logistic Regression.
  
 ## **Key Insights**
 
-Analysis of employee attrition drivers indicates that resignation risk is primarily influenced by three factors:
-
-*  Current Performance Score – Employees with low performance scores show significantly higher attrition probability, making this the strongest driver.
-
-*  Incentive Volatility – High variability in incentive payouts is strongly associated with increased resignation risk.
-
-*  Early Career Employees (Age / Tenure) – Younger employees and those with shorter tenure exhibit elevated attrition risk.
-
-These findings suggest that performance engagement, incentive stability, and early career retention initiatives should be prioritized to reduce attrition risk.
-
+*  Attrition is primarily an early-career issue, with highest impact in employees aged 18–30 and tenure of 0–10 years
+*  Trainee cadres (Executive & Supervisor) are the most vulnerable, indicating gaps in onboarding, role clarity, or career progression
+*  Attrition is not uniform and is concentrated in specific units and functions, suggesting localized organizational issues
+*  A small segment (~5%) of employees drive most of the attrition risk, enabling focused and targeted interventions
+*  Compensation-related factors (Compa Ratio, Incentive Volatility) significantly influence attrition, highlighting the importance of pay stability and fairness
+*  Absence patterns act as an early warning signal, indicating disengagement before attrition
+*  Performance is a key differentiator, with low-performing employees showing higher attrition risk
+*  Employees tend to stabilize as tenure and age increase, indicating retention improves after the early career stage
+*  Although overall attrition has declined over time, high-risk pockets still exist within specific employee segments
+*  Current Performance Score, Incentive Volatility, and Age are the most impactful drivers influencing attrition across the workforce
 
 ## **Disclaimer**
 
