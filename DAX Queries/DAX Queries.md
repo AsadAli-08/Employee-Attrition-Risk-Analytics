@@ -86,7 +86,7 @@
 
 
 
-##	**Attrition Risk Register**
+##	**3) Attrition Risk Register**
 
 ####              High Risk Employee =
                             CALCULATE (
@@ -110,7 +110,7 @@
                             ) / [Headcount]
 
 
-##	**Attrition Diagnostic Analysis**
+##	**4) Attrition Diagnostic Analysis**
 
 
 ####              FACT_Attrition_Drivers =
