@@ -434,6 +434,18 @@ The attrition prediction model uses Logistic Regression.
 *  Although overall attrition has declined over time, high-risk pockets still exist within specific employee segments
 *  Current Performance Score, Incentive Volatility, and Age are the most impactful drivers influencing attrition across the workforce
 
+## **Recommendations**
+
+*  Focus on early-career retention programs (0–10 years tenure), such as structured onboarding, mentoring, and career path clarity
+*  Introduce targeted interventions for trainee cadres (Executive & Supervisor Trainees) to improve engagement and reduce early exits
+*  Conduct unit/function-level deep dives for high-attrition areas to identify local issues (leadership, workload, environment)
+*  Improve compensation stability and transparency, especially around incentives and pay positioning
+*  Use absence patterns as an early warning signal to identify and engage at-risk employees proactively
+*  Strengthen performance management and feedback mechanisms to support low-performing employees
+*  Implement targeted retention actions for high-risk employees instead of broad, organization-wide programs
+*  Regularly monitor attrition risk dashboards to track trends and take timely action
+*  Align HR strategy with business planning, ensuring hiring and retention efforts are proactive rather than reactive
+
 ## **Disclaimer**
 
 This project was developed using internal organizational HR data.
