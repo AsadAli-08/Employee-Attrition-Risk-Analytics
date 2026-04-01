@@ -68,6 +68,12 @@
                                     && FACT_Resignation_probab[DOR] > TODAY ()
                             )
 
+####              Headcount =
+                            CALCULATE (
+                                COUNT ( FACT_Resignation_probab[EMP_ID] ),
+                                FACT_Employee_Master[DOR] > TODAY ()
+                            )
+
 
 ####              High Risk Employee % =
                             CALCULATE (
@@ -75,6 +81,9 @@
                                 FACT_Resignation_probab[Risk_Band] = "High"
                                     && FACT_Resignation_probab[DOR] > TODAY ()
                             ) / [Headcount]
+
+
+
 
 
 ##	**Attrition Risk Register**
