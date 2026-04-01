@@ -2,9 +2,11 @@
 
 ## **Project Overview**
 
-*  This project develops a predictive analytics system to identify employees at high risk of resignation and understand the key factors driving employee attrition.
+*  This project builds an end-to-end employee attrition analytics solution to identify employees at risk of leaving and understand the key factors driving attrition.
 
-*  The project integrates Oracle SQL, Python machine learning, and Power BI dashboards to deliver actionable workforce insights.
+*  The solution combines Oracle SQL, Python (machine learning), and Power BI to transform raw HR data into actionable insights for workforce decision-making.
+
+*  It enables HR teams to move from reactive reporting to proactive talent management by predicting attrition risk and highlighting critical risk segments across the organization.
 
 ## **Problem Objectives**
 
