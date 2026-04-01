@@ -1,6 +1,6 @@
 # **DAX Queries**
 
-##	**Historical Attrition Trend**
+*  ##	**Historical Attrition Trend**
 
 ####           Resignations (In specified Period) =
                         CALCULATE (
