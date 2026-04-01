@@ -13,7 +13,7 @@
                             )
                         )
             
-###           Avg_HeadCount =
+###           Avg Headcount =
                       VAR max_date =
                           LASTDATE ( DIM_Date_Table[Date] )
                       VAR min_date =
@@ -39,11 +39,11 @@
                           ) / 2
 
 
-###              Attrition% =
-                        [Resignations] / [Avg_HeadCount]              
+###              Attrition Rate =
+                        [Resignations] / [Avg Headcount]              
 
 
-###              Tenure at Resig =
+###              Tenure at Resignation =
                           DATEDIFF ( FACT_Employee_Master[DOJ], FACT_Employee_Master[DOR], YEAR )
 
 
