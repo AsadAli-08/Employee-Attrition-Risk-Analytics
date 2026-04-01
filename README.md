@@ -379,7 +379,7 @@ The attrition prediction model uses Logistic Regression.
 *  Executive Overview :
     * Filters : Date/ Unit/ Location/ Cadre/ Grade/ Gender/ Function
     * KPIs : Headcount (As on Date)/ Attrition % (Last 10 Years) / Resignations (Last 10 Years)/ Predicted High Risk Employee %/ Predicted High Risk Employee Count
-    * Visuals : Historical Attrition Trend (Last 10 years)/ Historical Attrition % by Function/ Attrition Risk Heatmap / Attrition Risk Distribution/ Top 10 Units at Risk/ Top                 50 Employees at Risk  
+    * Visuals : Key Factors impacting Attrition (Clustered Column Chart) / Historical Attrition Trend (Line Chart)/ Attrition Risk Distribution (Pie Chart)/ Historical                         Attrition by Cadre-Grade (Column Chart) / Attrition Risk Heatmap (Matrix)/ Top 50 Employees at Risk (Table) 
 
 *  Attrition History :
     * Filters : Date/ Unit/ Location/ Cadre/ Grade/ Gender/ Function
