@@ -394,10 +394,10 @@ The attrition prediction model uses Logistic Regression.
 *  Employee Risk Register :
     * Filters : Date/ Unit/ Location/ Cadre/ Grade/ Gender/ Function
     * KPIs :  Headcount (As on Date)/ High Risk Employee Count/ Medium Risk Employee Count/ Predicted High Risk Employee %/ Average Attrition Probability
-    * Visuals : Employee wise Attrition Risk Probability & Feature Values
+    * Visuals : Employee Risk Register (Table)
 
 *  Attrition Driver Diagnostics :
-    * Visuals : Top Factors impacting Attrition Risk / Factor wise Impact Score
+    * Visuals : Top Factors impacting Attrition Risk (Bar Chart) / Factor wise Impact Score (Clustered Column Chart)
  
 ## **Key Insights**
 
